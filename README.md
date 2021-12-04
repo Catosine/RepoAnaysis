@@ -30,4 +30,6 @@ According to the script, the top-12 most frequent edited modules are:
 |common| 338 | 148 | 486|
 |conf| 390 | 79 | 469|
 |api| 234 | 151 | 385|  
+
+
 In short, there are **48812** modifications where **35031** of them are additions and **13781** are deletions.
