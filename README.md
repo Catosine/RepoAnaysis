@@ -9,7 +9,7 @@ Just open the [Jupytor Notebook](./RepoAnalysis.ipynb) and run all.
 Anything under `/neutron` of [openstack/neutron](https://github.com/openstack/neutron).
 
 ### How long is the time period investigated?
-The time period investigated is arount **6 months** (Anything after 2021/06/01 till present).
+The time period investigated is around **6 months** (Anything after 2021/06/01 till present).
 
 ### How many commits occurred during the studied period?
 According to the script, there are **472** commits that fulfill the requirements (which means each of them are created within the timeslot and editions happend under `/neutron`).
