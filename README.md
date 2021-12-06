@@ -2,7 +2,7 @@
 This repo is used for analysing file activity in [openstack/neutron](https://github.com/openstack/neutron) by [Pengnan](pengnan.fan@mail.mcgill.ca). 
 
 ## Run Script
-Just open the [Jupytor Notebook](./RepoAnalysis.ipynb) and run all.
+Just open the [Jupytor Notebook](./RepoAnalysis.ipynb) and add your github username and your personal access token. After that you should be able to run all. It is camera-ready.
 
 ## Facts
 ### Which parts of the repository is investigated?
